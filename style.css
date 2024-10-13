@@ -1,0 +1,24 @@
+#espacio {
+    background-image: url("img/espacio3.jpg");
+    width: 900px;
+    height: 700px;
+}
+.nave {
+    position: absolute;
+    background-image: url("img/nave1.png");
+    width: 70px;
+    height: 80px;
+}
+.alien {
+    position: absolute;
+    background-image: url("img/alien.png");
+    width: 70px;
+    height: 75px;
+}
+.disparo {
+    position: absolute;
+    background-color: red;
+    width: 2px;
+    height: 10px;
+    position: absolute;
+}
